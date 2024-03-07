@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @maxiecuti
-- 👀 I’m interested in orochinho
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in: orochinho
+- 🌱 I’m currently: learning nothing
+- 📫 How to reach me: don't arrive
 - 😄 Pronouns: any
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i have red hair
 
 <!---
 maxiecuti/maxiecuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
